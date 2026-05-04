@@ -1,0 +1,6 @@
+﻿  masiv zad 2.cpp
+C:\Users\User\Desktop\Visual Studio\Masivi 4\masiv zad 2\masiv zad 2.cpp(13,18): warning C4474: 'printf' : too many arguments passed for format string
+      C:\Users\User\Desktop\Visual Studio\Masivi 4\masiv zad 2\masiv zad 2.cpp(13,18):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  masiv zad 2.vcxproj -> C:\Users\User\Desktop\Visual Studio\Masivi 4\x64\Debug\masiv zad 2.exe

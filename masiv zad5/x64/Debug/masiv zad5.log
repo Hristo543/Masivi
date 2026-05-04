@@ -1,0 +1,3 @@
+﻿  masiv zad5.cpp
+C:\Users\User\Desktop\Visual Studio\Masivi 4\masiv zad5\masiv zad5.cpp(32,16): warning C4477: 'printf' : format string '%.2lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  masiv zad5.vcxproj -> C:\Users\User\Desktop\Visual Studio\Masivi 4\x64\Debug\masiv zad5.exe
