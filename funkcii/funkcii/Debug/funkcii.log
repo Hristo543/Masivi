@@ -1,0 +1,8 @@
+﻿  funkcii.cpp
+C:\Users\Students\Desktop\Students\Редовно\ПИК\hristo 22505101\cikli\funkcii\funkcii\funkcii.cpp(57,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Students\Desktop\Students\Редовно\ПИК\hristo 22505101\cikli\funkcii\funkcii\funkcii.cpp(57,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\Students\Desktop\Students\Редовно\ПИК\hristo 22505101\cikli\funkcii\funkcii\funkcii.cpp(57,9): message : the missing variadic argument 1 is required by format string '%lf'
+C:\Users\Students\Desktop\Students\Редовно\ПИК\hristo 22505101\cikli\funkcii\funkcii\funkcii.cpp(62,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Students\Desktop\Students\Редовно\ПИК\hristo 22505101\cikli\funkcii\funkcii\funkcii.cpp(62,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\Students\Desktop\Students\Редовно\ПИК\hristo 22505101\cikli\funkcii\funkcii\funkcii.cpp(62,9): message : the missing variadic argument 1 is required by format string '%lf'
+  funkcii.vcxproj -> C:\Users\Students\Desktop\Students\Редовно\ПИК\hristo 22505101\cikli\funkcii\Debug\funkcii.exe
